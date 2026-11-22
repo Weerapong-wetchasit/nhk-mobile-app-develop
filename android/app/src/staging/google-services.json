@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "88047077397",
+    "project_id": "nhk-coop-staging",
+    "storage_bucket": "nhk-coop-staging.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88047077397:android:1f5c3ed2f76017281b261c",
+        "android_client_info": {
+          "package_name": "com.psc.nhkcoop.staging"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5bTnJHqjEmxCQj1HJ32p38M5E1fsTh34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
